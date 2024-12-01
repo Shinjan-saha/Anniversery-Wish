@@ -32,6 +32,9 @@ export default function Home() {
             <p className="mt-6 text-lg md:text-2xl text-white animate-fadeIn">
               Wishing you both endless love and happiness!
             </p>
+            <p className="mt-4 text-sm md:text-lg text-white font-light animate-fadeIn">
+              Made with love by Babi ❤️
+            </p>
           </>
         )}
       </div>
