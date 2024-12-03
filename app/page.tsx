@@ -24,7 +24,7 @@ export default function Home() {
             </h1>
             <div className="w-64 h-64 md:w-96 md:h-96 rounded-full overflow-hidden shadow-lg border-4 border-white animate-scaleIn">
               <img
-                src="/mom-dad-1.jpg"
+                src="https://i.postimg.cc/qBnRCSp2/mom-dad-1.jpg"
                 alt="Mom & Dad"
                 className="w-full h-full object-cover"
               />
